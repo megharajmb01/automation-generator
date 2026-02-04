@@ -1,0 +1,20 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env/
+.env
+
+# Local app/data folders
+chroma_db/
+extracted_images_by_section/
+jobs/
+figma_jobs
+
+
+# General cache / temp
+*.log
+*.tmp
